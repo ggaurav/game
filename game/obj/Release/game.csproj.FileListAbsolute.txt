@@ -1,0 +1,15 @@
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\Bin\Release\ApplicationIcon.png
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\Bin\Release\Background.png
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\Bin\Release\game.dll
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\Bin\Release\game.pdb
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\Bin\Release\AppManifest.xaml
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\Bin\Release\game.xap
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\ResolveAssemblyReference.cache
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\App.g.i.cs
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\MainPage.g.i.cs
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\Page1.g.i.cs
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\Page2.g.i.cs
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\game.g.resources
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\game.dll
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\game.pdb
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Release\XapCacheFile.xml

@@ -1,0 +1,15 @@
+c:\users\miky\documents\visual studio 2010\Projects\game\game\Bin\Debug\ApplicationIcon.png
+c:\users\miky\documents\visual studio 2010\Projects\game\game\Bin\Debug\Background.png
+c:\users\miky\documents\visual studio 2010\Projects\game\game\Bin\Debug\game.dll
+c:\users\miky\documents\visual studio 2010\Projects\game\game\Bin\Debug\game.pdb
+c:\users\miky\documents\visual studio 2010\Projects\game\game\Bin\Debug\AppManifest.xaml
+c:\users\miky\documents\visual studio 2010\Projects\game\game\Bin\Debug\game.xap
+c:\users\miky\documents\visual studio 2010\Projects\game\game\obj\Debug\ResolveAssemblyReference.cache
+c:\users\miky\documents\visual studio 2010\Projects\game\game\obj\Debug\App.g.i.cs
+c:\users\miky\documents\visual studio 2010\Projects\game\game\obj\Debug\MainPage.g.i.cs
+c:\users\miky\documents\visual studio 2010\Projects\game\game\obj\Debug\game.g.resources
+c:\users\miky\documents\visual studio 2010\Projects\game\game\obj\Debug\game.dll
+c:\users\miky\documents\visual studio 2010\Projects\game\game\obj\Debug\game.pdb
+c:\users\miky\documents\visual studio 2010\Projects\game\game\obj\Debug\XapCacheFile.xml
+C:\Users\miky\Documents\Visual Studio 2010\Projects\game\game\obj\Debug\Page1.g.i.cs
+C:\Users\miky\documents\visual studio 2010\Projects\game\game\obj\Debug\Page2.g.i.cs
